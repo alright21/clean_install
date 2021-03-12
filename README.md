@@ -8,3 +8,4 @@ This script is used for installing all the necessary components on a new instanc
 5. Install Telegram Desktop
 6. Install Vistual Studio Code
 7. Install Spotify
+8. Install Discord
